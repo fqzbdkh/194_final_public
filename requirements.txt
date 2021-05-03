@@ -1,0 +1,9 @@
+tds
+class
+nn
+nngraph
+cunn
+cudnn
+cutorch
+Pillow
+numpy
